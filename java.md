@@ -1,4 +1,4 @@
-## Debugging JAX-WS:
+## Debugging JAX-WS
 
 ```java
 com.sun.xml.internal.ws.transport.http.client.HttpTransportPipe.dump = true;
